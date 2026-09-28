@@ -1,0 +1,4 @@
+﻿  Lab03 ДЗ.c
+C:\Users\user\source\repos\Lab03 Studenihin Pavel\Lab03 ДЗ.c(12,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\Lab03 Studenihin Pavel\Lab03 ДЗ.c(14,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Lab03 Studenihin Pavel.vcxproj -> C:\Users\user\source\repos\Lab03 Studenihin Pavel\x64\Debug\Lab03 Studenihin Pavel.exe
